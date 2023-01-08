@@ -40,7 +40,7 @@
 </div>
 
 ## Hw7 ##
-设备限制，只跑了SPP16，所以噪点比较多
+设备限制，只跑了SPP16，所以噪点有点多
 <div align='center'>
   <img src="https://github.com/Chris-lyc/GAMES101-win10/blob/main/image/hw7.png" width=50%>
 </div>
