@@ -1,3 +1,0 @@
-/home/lyc/code/homework5/build/CMakeFiles/RayTracing.dir
-/home/lyc/code/homework5/build/CMakeFiles/edit_cache.dir
-/home/lyc/code/homework5/build/CMakeFiles/rebuild_cache.dir
